@@ -6,3 +6,25 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
+.eg2:nth-child(2){
+	color:black;
+}
+.eg3:last-child{
+	color:red;
+}
+.eg4{
+	background-color:white;
+	font-size:22px;
+	padding:10px;
+	width:50%;
+}
+.eg5{
+	background-color:grey;
+	padding:10px;
+	width:50%;
+}
+.eg6{
+	background-color:pink;
+	padding:10px;
+	width:50%;
+}
